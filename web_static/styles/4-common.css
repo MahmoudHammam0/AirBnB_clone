@@ -6,13 +6,10 @@ body {
 	font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
-div {
-	max-width: 1000px;
-	margin: 30px auto;
-}
-
 .container {
 	color: #FFFFFF;
+	max-width: 1000px;
+	margin: 30px auto;
 	height: 70px;
 	width: 100%;
 	border-radius: 4px;
