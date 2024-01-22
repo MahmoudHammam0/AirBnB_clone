@@ -64,6 +64,10 @@ section.filters button:hover {
 	padding-left: 30px;
 }
 
+.amenities .popover {
+	padding-top: 30px;
+}
+
 .amenities li {
 	padding-left: 20px;
 	margin-bottom: 5px;
