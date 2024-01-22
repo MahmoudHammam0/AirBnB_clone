@@ -1,4 +1,4 @@
-.container .filters {
+.container.filters {
 	background-color: #FFFFFF;
 	height: 70px;
 	width: 100%;
@@ -6,7 +6,7 @@
 	border-radius: 4px;
 }
 
-.container .filters button {
+.container.filters button {
 	font-size: 18px;
 	background-color: #FF5A5F;
 	color: #FFFFFF;
@@ -17,7 +17,7 @@
 	margin: 11px 30px;
 	float: right;
 }
-.container .filters button:hover {
+.container.filters button:hover {
 	opacity: 0.9;
 }
 
