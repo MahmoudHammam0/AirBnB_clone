@@ -66,11 +66,17 @@ section.filters button:hover {
 
 .amenities li {
 	padding-left: 20px;
+	margin-bottom: 5px;
 }
 
 .popover li ul {
 	list-style: none;
 	padding-left: 22px;
+	margin-top: 2px;
+}
+
+ul li ul li {
+	margin-bottom: 3px;
 }
 
 .amenities:hover .popover,
