@@ -103,7 +103,7 @@ ul li ul li {
 
 .Places ul li {
 	list-style-type: none;
-	display: inline-block;
+	display: inline-flex;
 }
 
 .Places article {
